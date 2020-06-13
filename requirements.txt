@@ -1,0 +1,7 @@
+simulaqron
+flask
+requests
+mysql-connector-python
+pycrypto
+pycryptodome
+progressbar
